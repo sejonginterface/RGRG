@@ -1,10 +1,10 @@
-# AlgorithmClub_RGRG
+# AlgorithmClub_RGRG <img src="https://github.com/sejonginterface/AlgorithmClub_RGRG/blob/main/docs/assets/rainbow_bird.gif" width="50px">
 인페 내 어둠의 알고리즘 소모임 RGRG
 
 ## 1. 백준
-* 매일 저녁 ?시, 백준 문제를 푼다.
+* 매일 저녁 9시, 백준 문제를 푼다.
   - 맨날 동방에서 같이 코딩하다가 혼자 하려니까 심심하다!
-  - 이 시간에 동방 가면 코딩하는 사람들 있겠지? 라는 생각이 들 때 하면 된다.
+  - 이 시간에 동방 가면 코딩하는 사람들 있겠지? 라는 생각이 들 때 하면 된다. (일단은 9시로 정해봤음)
   - RGRG 회원 ㄱ모씨가 세종머 랭킹이 낮다고 자존심 상해하신다. 올리도록 노력해보자.
 * https://www.acmicpc.net/problem/tags
     
@@ -30,12 +30,12 @@
 
 ```sh
 AlgorithmClub_RGRG
-  │  README.md                 - 리드미 파일
+  │  README.md                 - 지금 보고 있는 이 파일
   ├─ docs                      - 소모임 관련 문서
-  │   ├─  assets               - 로고 같은거 여기에 넣을 것임
+  │   ├─  assets               - 로고 같은거 여기에 넣을 것임 (앵무새 gif 여기 들어있음)
   │   └─  curriculumn.md           
   ├─ source                    - 개인 폴더는 여기에 생성해주세여
-  └─ study                     - 아마 코포 진행하고 피드백 같은거 여기에 마크다운 문서로 작성하면 될 듯?
+  └─ study                     - 아마 코포 진행하고 피드백 같은거 여기에 마크다운 문서로 작성하면 될 듯
 
 ```
 <br>
@@ -53,8 +53,9 @@ AlgorithmClub_RGRG
 |이름|github ID|
 |------|---|
 |김인페|[아이디](https://github.com/아이디)|
-|님인페|[아이디](https://github.com/아이디)|
-|딤인페|[아이디](https://github.com/아이디)|
+|김밀쉐|[아이디](https://github.com/아이디)|
+|김밀쉐|[아이디](https://github.com/아이디)|
+|김밀쉐|[아이디](https://github.com/아이디)|
 
 * 소모임에 들어오고 싶으신 분은 예비회원 목록에 본인 이름과 github ID를 넣고 master branch로 PR 보내시면 됩니다.
  - PR 보내는 방법 모르겠으면 인페 디코 or 카톡으로 물어봐주세요. 화면 공유해서 친절하게 알려드림
