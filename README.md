@@ -22,7 +22,7 @@
 
 ## 4. 깃허브 관리 방법
   1. source 폴더 안에 있는 개인 폴더 사용
-  2. master branch로 Pull Request를 보냄
+  2. main branch로 Pull Request를 보냄
   3. 단무지가 merge 함
   
 * 코드는 개인 폴더에 저장한 후, study 폴더에서 글 작성할 때 링크해주면 될 것 같음
@@ -49,6 +49,8 @@ AlgorithmClub_RGRG
 |단무지|[아이디](https://github.com/아이디)|
 |단무지|[아이디](https://github.com/아이디)|
 * 회원님들 이거 보면 이름이랑 아이디 넣어주세여
+
+<br>
 
 ### 소모임 예비회원 목록
 |이름|github ID|
