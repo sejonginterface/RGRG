@@ -45,7 +45,7 @@ AlgorithmClub_RGRG
 |이름|github|
 |------|---|
 |이현주|[alro923](https://github.com/alro923)|
-|단무지|[아이디](https://github.com/아이디)|
+|권은지|[kej1234](https://github.com/kej1234)|
 |단무지|[아이디](https://github.com/아이디)|
 |단무지|[아이디](https://github.com/아이디)|
 * 회원님들 이거 보면 이름이랑 아이디 넣어주세여
