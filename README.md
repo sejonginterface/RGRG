@@ -49,7 +49,7 @@ RGRG는 올해 만들어진 따끈따끈한 소모임 입니다.
 * (추가 환영)
 
 ## 4. 깃허브 관리 방법
-  1. source 폴더 안에 있는 개인 폴더 사용
+  1. source 폴더 안에 있는 개인 폴더에서 작업
   2. main branch로 Pull Request를 보냄
   3. 단무지가 merge 함
   
@@ -76,6 +76,7 @@ AlgorithmClub_RGRG
 |권은지|[kej1234](https://github.com/kej1234)|
 |이경은|[2kyung19](https://github.com/2kyung19)|
 |김하늬|[kimhanui](https://github.com/kimhanui)|
+|박상욱|[sw0501](https://github.com/sw0501)|
 
 <br>
 
