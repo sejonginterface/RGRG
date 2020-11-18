@@ -83,7 +83,7 @@ AlgorithmClub_RGRG
 ### 소모임 예비회원 목록
 |이름|github ID|
 |------|---|
-|김인페|[아이디](https://github.com/아이디)|
+|최인호|[eknow25](https://github.com/E-know)|
 |김밀쉐|[아이디](https://github.com/아이디)|
 |김밀쉐|[아이디](https://github.com/아이디)|
 |김밀쉐|[아이디](https://github.com/아이디)|
