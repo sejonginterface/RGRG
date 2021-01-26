@@ -1,8 +1,6 @@
 # AlgorithmClub_RGRG <img src="https://github.com/sejonginterface/AlgorithmClub_RGRG/blob/main/docs/assets/rainbow_bird.gif" width="50px">
 인페 내 어둠의 알고리즘 소모임 RGRG
 
--------------
-
  ```
 RGRG는 2020년에 만들어진 따끈따끈한 소모임 입니다.
 학생회관에 있는 동방은 닫혔지만, 사이버 동방에서라도 코딩은 하고 싶은 사람들이 모여서 만들었습니다.
@@ -13,7 +11,7 @@ RGRG는 2020년에 만들어진 따끈따끈한 소모임 입니다.
 - [RGRG 노션 페이지](https://www.notion.so/rgrg/RGRG-310fcd5ff61b40d7a32bd9386b1fac16)
 
 
-## 깃허브 관리 방법
+## repository 사용 방법
   1. source 폴더 안에 있는 개인 폴더에서 작업
   2. main branch로 Pull Request를 보냄
   3. merge 함
@@ -32,8 +30,6 @@ AlgorithmClub_RGRG
   └─ study                     - 아마 코포 진행하고 피드백 같은거 여기에 마크다운 문서로 작성하면 될 듯
 
 ```
-<br>
-
 ### 소모임 회원 목록
 |이름|github|
 |------|---|
